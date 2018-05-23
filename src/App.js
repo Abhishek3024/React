@@ -5,6 +5,7 @@ import Layout from './components/Layout/Layout';
 class App extends Component {
   render() {
     console.log('test');
+    console.log('test');
     return (
       <div>
         <Layout>
